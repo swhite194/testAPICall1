@@ -1,0 +1,20 @@
+[
+  {
+    "name": "deadlocks",
+    "message": "msg regarding deadlocks",
+    "status": false,
+    "error": "error stuff"
+  },
+ {
+    "name": "solr",
+    "message": "msg regarding solr",
+    "status": false,
+    "error": "error stuff"
+  },
+  {
+    "name": "whatever else we want",
+    "message": "msg regarding whatever",
+    "status": false,
+    "error": "error stuff"
+  },
+]

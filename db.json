@@ -16,5 +16,5 @@
     "message": "msg regarding whatever",
     "status": false,
     "error": "error stuff"
-  },
+  }
 ]
